@@ -41,14 +41,12 @@ a {
 }
 
 @media (max-width: 760px) {
-  /* For a screen < 720px, this CSS will be read */
   .container {
     width: 600px;
   }
 }
 
 @media (max-width: 400px) {
-  /* For a screen < 720px, this CSS will be read */
   .container {
     width: 50px;
   }
